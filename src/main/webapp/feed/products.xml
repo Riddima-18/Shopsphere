@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="4">
+    <name>Wireless Earbuds</name>
+    <price>1799.10</price>
+    <stock>23</stock>
+  </product>
+  <product id="5">
+    <name>Smart Watch</name>
+    <price>2974.15</price>
+    <stock>10</stock>
+  </product>
+  <product id="6">
+    <name>Cotton T-Shirt</name>
+    <price>474.05</price>
+    <stock>50</stock>
+  </product>
+</products>
